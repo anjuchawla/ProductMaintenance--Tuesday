@@ -16,8 +16,18 @@
         <Price>56.50</Price>
     </Product>
     <Product>
-        <Code>BJWN</Code>
-        <Description>Murach's Beginning Java with NetBeans</Description>
-        <Price>57.50</Price>
+        <Code>1234</Code>
+        <Description>book</Description>
+        <Price>100</Price>
+    </Product>
+    <Product>
+        <Code>aaaa</Code>
+        <Description>qqqq</Description>
+        <Price>120</Price>
+    </Product>
+    <Product>
+        <Code>1234</Code>
+        <Description>qq</Description>
+        <Price>123</Price>
     </Product>
 </Products>

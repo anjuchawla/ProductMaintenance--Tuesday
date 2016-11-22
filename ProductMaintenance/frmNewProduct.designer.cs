@@ -138,6 +138,7 @@ namespace ProductMaintenance
             this.Name = "frmNewProduct";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "New Product";
+            this.Load += new System.EventHandler(this.frmNewProduct_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
